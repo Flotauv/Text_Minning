@@ -1,1 +1,1 @@
-# Text_Minning
+# Text_Mining
